@@ -1,0 +1,21 @@
+.header a{
+    text-decoration: none;
+    margin-right: 80px;
+    padding: 2px 5px;
+    color: white;
+
+}
+
+.header{
+    padding: 20px;
+    font-size: 1.2rem;
+    background: #000;
+    position: sticky;
+    
+}
+
+
+.header a:hover{
+    background: gray;
+    border-radius: 20px;
+}

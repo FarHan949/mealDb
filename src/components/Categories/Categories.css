@@ -1,0 +1,15 @@
+.cate{
+    border: 2px solid aquamarine;
+    border-radius: 20px;
+}
+
+
+.cate img{
+    padding-top: 14px;
+    border-radius: 20px;
+}
+
+.cate p{
+    padding-right: 15px;
+    padding-left: 15px;
+}
